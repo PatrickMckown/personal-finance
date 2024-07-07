@@ -34,6 +34,6 @@ Thank you for visiting the Personal Finance Resources Repository. I hope you fin
 
 **Contact**: patrickmckown@outlook.com
 
-**License**: [Your preferred license, e.g., MIT License]
+**License**: MIT License
 
 Happy budgeting!
