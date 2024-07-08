@@ -40,9 +40,7 @@ Pay off any high-interest debt, such as credit card balances. High-interest debt
 Expand your initial emergency fund to cover 3 to 6 months of living expenses. This more substantial emergency fund provides a financial cushion in case of job loss, medical emergencies, or other significant life events.
 
 * **Step 5: Roth & HSA**
-Contribute to a Roth IRA and HSA up to the maximum limit. A Roth IRA allows your investments to grow tax-free, and withdrawals in retirement are also tax-free. This can be a powerful tool for long-term wealth building.
-
-If you have access to a Health Savings Account (HSA), contribute to it. HSAs offer triple tax advantages: contributions are tax-deductible, investments grow tax-free, and withdrawals for qualified medical expenses are tax-free. Maxing out your HSA can be a strategic move for both healthcare costs and retirement savings.
+Contribute to a Roth IRA and HSA up to the maximum limit. A Roth IRA allows your investments to grow tax-free, and withdrawals in retirement are also tax-free. This can be a powerful tool for long-term wealth building. If you have access to a Health Savings Account (HSA), contribute to it. HSAs offer triple tax advantages: contributions are tax-deductible, investments grow tax-free, and withdrawals for qualified medical expenses are tax-free. Maxing out your HSA can be a strategic move for both healthcare costs and retirement savings.
 
 * **Step 6: Max-Out Retirement**
 Return to your 401(k) and contribute up to the maximum limit. After securing the employer match earlier, now is the time to fully fund your 401(k) to take advantage of tax-deferred growth and compounding interest.
