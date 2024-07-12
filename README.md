@@ -7,10 +7,10 @@ This folder contains a collection of Excel templates that I have personally crea
 
 **Current Templates**
 * Budget Template: A comprehensive budget template to track your income and expenses.
+* Debt Snowball Template: A template designed to help you implement the debt snowball method for paying off debt.
 
 **Future Templates**
 * Monthly Spending Tracker Template: A tool to monitor and analyze your monthly spending habits. (PENDING)
-* Debt Snowball Template: A template designed to help you implement the debt snowball method for paying off debt. (PENDING)
 
 ### 2. How-To Guides
 This folder includes detailed guides on how to perform specific financial tasks.
