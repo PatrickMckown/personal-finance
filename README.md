@@ -54,6 +54,19 @@ Consider prepaying future major expenses, such as a wedding, a new car, a child'
 * **Step 9: Low-Interest Debt**
 Address any remaining low-interest debt, such as student loans or mortgages. While these debts typically have lower interest rates, paying them off can still free up cash flow and reduce your financial obligations.
 
+## Project Structure
+The repository is structured as follows:
+
+```Copy code
+.
+├── README.md
+├── LICENSE
+├── queries
+│   ├── Sales_Heatmap_Query.sql
+│   ├── Sales_Heatmap_Unpivoted_Query.sql
+│   └── Vendor_Scorecard_Query.sql
+```
+
 ## Work in Progress
 Please note that this repository is a work in progress. I will be continuously updating and adding new templates, guides, and resources to enhance its value. Stay tuned for more changes and improvements in the future.
 
