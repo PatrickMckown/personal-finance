@@ -61,16 +61,12 @@ The repository is structured as follows:
 .
 ├── README.md
 ├── LICENSE
+├── shared-resources
+│   ├── 1. Financial-Order-of-Operations
+│   └── 2. 20-3-8-Rule.png
 ├── templates
-│   ├── Sales_Heatmap_Query.sql
-│   ├── Sales_Heatmap_Unpivoted_Query.sql
-│   └── Vendor_Scorecard_Query.sql
-├── sql-as-excel
-│   ├── 1. sql-fundamentals
-│   │   ├── 1.1 SELECT-FROM-WHERE SQL.sql
-│   │   └── 1.1 SELECT-FROM-WHERE XL.xlsx
-├── procedures
-└── views
+│   ├── Budget_Template.xlsx
+│   └── Debt_Snowball.xlsx
 ```
 
 ## Work in Progress
